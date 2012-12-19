@@ -3,13 +3,13 @@
 # or saved.  Do not modify them directly here.
 # NB: PACKAGES is deprecated
 NAME = 'ZenPacks.community.PointThreshold'
-VERSION = '1.1'
+VERSION = '1.2'
 AUTHOR = 'Eric Edgar'
 LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.community']
 PACKAGES = ['ZenPacks', 'ZenPacks.community', 'ZenPacks.community.PointThreshold']
 INSTALL_REQUIRES = []
-COMPAT_ZENOSS_VERS = '>=2.4'
+COMPAT_ZENOSS_VERS = '>=3.2'
 PREV_ZENPACK_NAME = ''
 # STOP_REPLACEMENTS
 ################################
